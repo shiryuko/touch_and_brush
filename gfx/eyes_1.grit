@@ -1,0 +1,14 @@
+# Symbol name
+-s eyes_1
+
+# Warning/log level
+-W3
+
+# Tile image
+-gt
+
+# Tell grit to include a palette (the first index in it will be transparent)
+-p
+
+# Bit depth
+-gB4

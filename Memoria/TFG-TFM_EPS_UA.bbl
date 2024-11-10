@@ -1,0 +1,737 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+{ARM}%
+}{%
+{ARM}%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+arm9}
+\APACinsertmetastar {%
+arm9}%
+\begin{APACrefauthors}%
+{ARM}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+\APACrefbtitle {{ARM9E-S (Rev 1) Technical Reference Manual}.} {{ARM9E-S (Rev
+  1) Technical Reference Manual}.}
+\newblock
+\APAChowpublished
+  {\url{http://ww1.microchip.com/downloads/en/DeviceDoc/doc6178.pdf}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{ARM}%
+}{%
+{ARM}%
+}{%
+{\protect \APACyear {2001}}%
+}]{%
+arm7}
+\APACinsertmetastar {%
+arm7}%
+\begin{APACrefauthors}%
+{ARM}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{}{}.
+\newblock
+\APACrefbtitle {{ARM7TDMI (Rev 3) Technical Reference Manual}.} {{ARM7TDMI (Rev
+  3) Technical Reference Manual}.}
+\newblock
+\APAChowpublished
+  {\url{http://ww1.microchip.com/downloads/en/DeviceDoc/DDI0029G_7TDMI_R3_trm.pdf}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{azyDream}%
+}{%
+{azyDream}%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+graffitipalibhow}
+\APACinsertmetastar {%
+graffitipalibhow}%
+\begin{APACrefauthors}%
+{azyDream}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+\APACrefbtitle {{Palib - Shape Recognition Principle}.} {{Palib - Shape
+  Recognition Principle}.}
+\newblock
+\APAChowpublished {\url{https://azydream.tistory.com/55}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Chuan Ji (jichu4n)}%
+}{%
+{Chuan Ji (jichu4n)}%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+palmosarchive}
+\APACinsertmetastar {%
+palmosarchive}%
+\begin{APACrefauthors}%
+{Chuan Ji (jichu4n)}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {{Archive of Palm OS SDKs}.} {{Archive of Palm OS SDKs}.}
+\newblock
+\APAChowpublished {\url{https://github.com/jichu4n/palm-os-sdk}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{devkitPro}%
+}{%
+{devkitPro}%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+devkitpropalib}
+\APACinsertmetastar {%
+devkitpropalib}%
+\begin{APACrefauthors}%
+{devkitPro}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+\APACrefbtitle {{PAlib - devkitPro}.} {{PAlib - devkitPro}.}
+\newblock
+\APAChowpublished {\url{https://devkitpro.org/wiki/PAlib}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Google}%
+}{%
+{Google}%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+magiccat}
+\APACinsertmetastar {%
+magiccat}%
+\begin{APACrefauthors}%
+{Google}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\APACrefbtitle {{Halloween 2016 (Doodle Magic Cat Academy}.} {{Halloween 2016
+  (Doodle Magic Cat Academy}.}
+\newblock
+\APAChowpublished {\url{https://www.google.com/doodles/halloween-2016}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Jaeden Amero}%
+}{%
+{Jaeden Amero}%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+pataterguide}
+\APACinsertmetastar {%
+pataterguide}%
+\begin{APACrefauthors}%
+{Jaeden Amero}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+\APACrefbtitle {{Introduction to Nintendo DS Programming}.} {{Introduction to
+  Nintendo DS Programming}.}
+\newblock
+\APAChowpublished
+  {\url{https://patater.com/files/projects/manual/manual.html#id2614177}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Jasper Vijn}%
+}{%
+{Jasper Vijn}%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+tonc}
+\APACinsertmetastar {%
+tonc}%
+\begin{APACrefauthors}%
+{Jasper Vijn}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+\APACrefbtitle {{Tonc}.} {{Tonc}.}
+\newblock
+\APAChowpublished {\url{http://www.coranac.com/tonc/text/log.htm}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Joel Sherrill (joelsherrill)}%
+}{%
+{Joel Sherrill (joelsherrill)}%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+graffitipalib}
+\APACinsertmetastar {%
+graffitipalib}%
+\begin{APACrefauthors}%
+{Joel Sherrill (joelsherrill)}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+\APACrefbtitle {{PAlib Recognition algorithm from RTEMS}.} {{PAlib Recognition
+  algorithm from RTEMS}.}
+\newblock
+\APAChowpublished
+  {\url{https://github.com/atgreen/RTEMS/blob/master/c/src/lib/libbsp/arm/nds/touchscreen/reco.c}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Martin Korth}%
+}{%
+{Martin Korth}%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+gbatek}
+\APACinsertmetastar {%
+gbatek}%
+\begin{APACrefauthors}%
+{Martin Korth}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+\APACrefbtitle {{GBA/NDS Technical Info}.} {{GBA/NDS Technical Info}.}
+\newblock
+\APAChowpublished {\url{http://problemkaputt.de/gbatek.htm#aboutthisdocument}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Nintendo}%
+}{%
+{Nintendo}%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+warioware1}
+\APACinsertmetastar {%
+warioware1}%
+\begin{APACrefauthors}%
+{Nintendo}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+\APACrefbtitle {{WarioWare: Touched!}} {{WarioWare: Touched!}}
+\newblock
+\APAChowpublished
+  {\url{https://www.nintendo.es/Juegos/Nintendo-DS/WarioWare-Touched--273564.html}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Nintendo}%
+}{%
+{Nintendo}%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+brainageexpressnintendo}
+\APACinsertmetastar {%
+brainageexpressnintendo}%
+\begin{APACrefauthors}%
+{Nintendo}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+\APACrefbtitle {{Una pausa con... Brain Training Ciencias}.} {{Una pausa con...
+  Brain Training Ciencias}.}
+\newblock
+\APAChowpublished
+  {\url{https://www.nintendo.es/Juegos/Nintendo-DSiWare/Una-pausa-con-Brain-Training-Ciencias-261960.html}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Nintendo}%
+}{%
+{Nintendo}%
+}{%
+{\protect \APACyear {2020}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+ndsinintendo}
+\APACinsertmetastar {%
+ndsinintendo}%
+\begin{APACrefauthors}%
+{Nintendo}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020{\protect \BCnt {1}}}{}{}.
+\newblock
+\APACrefbtitle {{Nintendo DSi}.} {{Nintendo DSi}.}
+\newblock
+\APAChowpublished
+  {\url{https://www.nintendo.es/Nintendo-DS/Nintendo-DSi/Nintendo-DSi-Pagina-web-oficial-de-Nintendo-Iberica--116441.html}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Nintendo}%
+}{%
+{Nintendo}%
+}{%
+{\protect \APACyear {2020}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+ndsixl}
+\APACinsertmetastar {%
+ndsixl}%
+\begin{APACrefauthors}%
+{Nintendo}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020{\protect \BCnt {2}}}{}{}.
+\newblock
+\APACrefbtitle {{Nintendo DSi XL}.} {{Nintendo DSi XL}.}
+\newblock
+\APAChowpublished
+  {\url{https://www.nintendo.es/Nintendo-DS/Nintendo-DSi-XL/Nintendo-DSi-XL-Pagina-web-oficial-de-Nintendo-Iberica-116442.html}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Nuria Martínez Soriano}%
+}{%
+{Nuria Martínez Soriano}%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+trabajonuria}
+\APACinsertmetastar {%
+trabajonuria}%
+\begin{APACrefauthors}%
+{Nuria Martínez Soriano}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+\APACrefbtitle {{DESARROLLO DE APLICACIÓN SOBRENINTENDO DS PARA TRANSFERENCIA
+  DE DATOS VÍA WI-FI}.} {{DESARROLLO DE APLICACIÓN SOBRENINTENDO DS PARA
+  TRANSFERENCIA DE DATOS VÍA WI-FI}.}
+\newblock
+\APAChowpublished
+  {\url{https://riunet.upv.es/bitstream/handle/10251/11576/memoria.pdf?sequence=1}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Olivier Boudeville}%
+}{%
+{Olivier Boudeville}%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+osdl}
+\APACinsertmetastar {%
+osdl}%
+\begin{APACrefauthors}%
+{Olivier Boudeville}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+\APACrefbtitle {{A guide to homebrew development for the Nintendo DS}.} {{A
+  guide to homebrew development for the Nintendo DS}.}
+\newblock
+\APAChowpublished
+  {\url{http://osdl.sourceforge.net/main/documentation/misc/nintendo-DS/homebrew-guide/HomebrewForDS.html#andnow}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{PAlib}%
+}{%
+{PAlib}%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+palibshape}
+\APACinsertmetastar {%
+palibshape}%
+\begin{APACrefauthors}%
+{PAlib}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+\APACrefbtitle {{PAlib: Shape Recognition}.} {{PAlib: Shape Recognition}.}
+\newblock
+\APAChowpublished
+  {\url{http://cravesoft.free.fr/PAlibDocEng/html/group___reco.html#ga925cec3c4c9e826e8c07ee5a2366feb}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Thomas Farrell, Connor Petilli}%
+}{%
+{Thomas Farrell, Connor Petilli}%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+ndsarch}
+\APACinsertmetastar {%
+ndsarch}%
+\begin{APACrefauthors}%
+{Thomas Farrell, Connor Petilli}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+\APACrefbtitle {{ARCHITECTURE OF THE NINTENDO DS}.} {{ARCHITECTURE OF THE
+  NINTENDO DS}.}
+\newblock
+\APAChowpublished
+  {\url{http://meseec.ce.rit.edu/551-projects/fall2015/3-1.pdf}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Vandal}%
+}{%
+{Vandal}%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+lostmagicwiki2}
+\APACinsertmetastar {%
+lostmagicwiki2}%
+\begin{APACrefauthors}%
+{Vandal}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+\APACrefbtitle {{Análisis Lost Magic}.} {{Análisis Lost Magic}.}
+\newblock
+\APAChowpublished
+  {\url{https://vandal.elespanol.com/analisis/nds/lost-magic/5265#p-29}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Wikipedia}%
+}{%
+{Wikipedia}%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+arm}
+\APACinsertmetastar {%
+arm}%
+\begin{APACrefauthors}%
+{Wikipedia}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+\APACrefbtitle {{ARM architecture}.} {{ARM architecture}.}
+\newblock
+\APAChowpublished
+  {\url{https://en.wikipedia.org/wiki/ARM_architecture#32-bit_architecture}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Wikipedia}%
+}{%
+{Wikipedia}%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+nds}
+\APACinsertmetastar {%
+nds}%
+\begin{APACrefauthors}%
+{Wikipedia}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+\APACrefbtitle {{Nintendo DS}.} {{Nintendo DS}.}
+\newblock
+\APAChowpublished {\url{https://en.wikipedia.org/wiki/Nintendo_DS}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Wikipedia}%
+}{%
+{Wikipedia}%
+}{%
+{\protect \APACyear {2006}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+ipc}
+\APACinsertmetastar {%
+ipc}%
+\begin{APACrefauthors}%
+{Wikipedia}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006{\protect \BCnt {1}}}{}{}.
+\newblock
+\APACrefbtitle {{Comunicación entre procesos}.} {{Comunicación entre
+  procesos}.}
+\newblock
+\APAChowpublished
+  {\url{https://es.wikipedia.org/wiki/Comunicaci%C3%B3n_entre_procesos}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Wikipedia}%
+}{%
+{Wikipedia}%
+}{%
+{\protect \APACyear {2006}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+lostmagicwiki}
+\APACinsertmetastar {%
+lostmagicwiki}%
+\begin{APACrefauthors}%
+{Wikipedia}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006{\protect \BCnt {2}}}{}{}.
+\newblock
+\APACrefbtitle {{Lost Magic}.} {{Lost Magic}.}
+\newblock
+\APAChowpublished {\url{https://en.wikipedia.org/wiki/LostMagic}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Wikipedia}%
+}{%
+{Wikipedia}%
+}{%
+{\protect \APACyear {2006}}%
+{\protect \APACexlab {{\protect \BCnt {3}}}}}]{%
+ndslite}
+\APACinsertmetastar {%
+ndslite}%
+\begin{APACrefauthors}%
+{Wikipedia}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006{\protect \BCnt {3}}}{}{}.
+\newblock
+\APACrefbtitle {{Nintendo DS Lite}.} {{Nintendo DS Lite}.}
+\newblock
+\APAChowpublished {\url{https://en.wikipedia.org/wiki/Nintendo_DS_Lite}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Wikipedia}%
+}{%
+{Wikipedia}%
+}{%
+{\protect \APACyear {2006}}%
+{\protect \APACexlab {{\protect \BCnt {4}}}}}]{%
+warioware2}
+\APACinsertmetastar {%
+warioware2}%
+\begin{APACrefauthors}%
+{Wikipedia}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006{\protect \BCnt {4}}}{}{}.
+\newblock
+\APACrefbtitle {{WarioWare: Touched!}} {{WarioWare: Touched!}}
+\newblock
+\APAChowpublished {\url{https://es.wikipedia.org/wiki/WarioWare:_Touched!}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Wikipedia}%
+}{%
+{Wikipedia}%
+}{%
+{\protect \APACyear {2008}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+brainageexpress}
+\APACinsertmetastar {%
+brainageexpress}%
+\begin{APACrefauthors}%
+{Wikipedia}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008{\protect \BCnt {1}}}{}{}.
+\newblock
+\APACrefbtitle {{Brain Age Express}.} {{Brain Age Express}.}
+\newblock
+\APAChowpublished {\url{https://en.wikipedia.org/wiki/Brain_Age_Express}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Wikipedia}%
+}{%
+{Wikipedia}%
+}{%
+{\protect \APACyear {2008}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+ndsi}
+\APACinsertmetastar {%
+ndsi}%
+\begin{APACrefauthors}%
+{Wikipedia}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008{\protect \BCnt {2}}}{}{}.
+\newblock
+\APACrefbtitle {{Nintendo DSi}.} {{Nintendo DSi}.}
+\newblock
+\APAChowpublished {\url{https://en.wikipedia.org/wiki/Nintendo_DSi}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Wikipedia}%
+}{%
+{Wikipedia}%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+graffitipalm}
+\APACinsertmetastar {%
+graffitipalm}%
+\begin{APACrefauthors}%
+{Wikipedia}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+\APACrefbtitle {{Graffiti (Palm OS)}.} {{Graffiti (Palm OS)}.}
+\newblock
+\APAChowpublished {\url{https://es.wikipedia.org/wiki/Graffiti_(Palm_OS)}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Wikipedia}%
+}{%
+{Wikipedia}%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+scene}
+\APACinsertmetastar {%
+scene}%
+\begin{APACrefauthors}%
+{Wikipedia}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+\APACrefbtitle {{Scene}.} {{Scene}.}
+\newblock
+\APAChowpublished {\url{https://es.wikipedia.org/wiki/Scene}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Wikipedia}%
+}{%
+{Wikipedia}%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+risc}
+\APACinsertmetastar {%
+risc}%
+\begin{APACrefauthors}%
+{Wikipedia}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+\APACrefbtitle {{Reduced instruction set computing}.} {{Reduced instruction set
+  computing}.}
+\newblock
+\APAChowpublished
+  {\url{https://es.wikipedia.org/wiki/Reduced_instruction_set_computing}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Wikipedia}%
+}{%
+{Wikipedia}%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+ndsfamily}
+\APACinsertmetastar {%
+ndsfamily}%
+\begin{APACrefauthors}%
+{Wikipedia}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+\APACrefbtitle {{Nintendo DS Family}.} {{Nintendo DS Family}.}
+\newblock
+\APAChowpublished {\url{https://en.wikipedia.org/wiki/Nintendo_DS_family}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Xerox Corp}%
+}{%
+{Xerox Corp}%
+}{%
+{\protect \APACyear {1995}}%
+}]{%
+unistrokes}
+\APACinsertmetastar {%
+unistrokes}%
+\begin{APACrefauthors}%
+{Xerox Corp}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1995}{}{}.
+\newblock
+\APACrefbtitle {{Unistrokes for computerized interpretation of handwriting }.}
+  {{Unistrokes for computerized interpretation of handwriting }.}
+\newblock
+\APAChowpublished {\url{https://patents.google.com/patent/US5596656}}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

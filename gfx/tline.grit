@@ -1,0 +1,14 @@
+# Symbol name
+-s tline
+
+# Warning/log level
+-W3
+
+# Tile image
+-gt
+
+# Tell grit to include a palette (the first index in it will be transparent)
+-p 000000
+
+# Bit depth
+-gB4

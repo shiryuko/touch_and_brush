@@ -1,0 +1,274 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Plantilla Póster TFG/TFM
+% Escuela Politécnica Superior de la Universidad de Alicante
+% Realizado por: Jose Manuel Requena Plens
+% Contacto: info@jmrplens.com / Telegram:@jmrplens
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% INDICA TU TITULACIÓN
+% ID	GRADO -------------------------------------------------
+% 1		Ingeniería en Imagen y Sonido en Telecomunicación
+% 2		Ingeniería Civil
+% 3		Ingeniería Química
+% 4		Ingeniería Informática
+% 5		Ingeniería Multimedia
+% 6		Arquitectura Técnica
+% 7		Arquitectura
+% 8		Robótica
+% %		%%%%%%%%%%%%
+% ID	MÁSTER ------------------------------------------------
+% A		Telecomunicación
+% B		Caminos, Canales y Puertos
+% C		Gestión en la Edificación
+% D		Desarrollo Web
+% E		Materiales, Agua, Terreno
+% F		Informática
+% G 	Automática y Robótica
+% H		Prevención de riesgos laborales
+% I		Gestión Sostenible Agua
+% J		Desarrollo Aplicaciones Móviles
+% K		Ingeniería Química
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%%%
+																		%
+\def\IDtitulo{1} % INTRODUCE LA ID DE TU TITULACIÓN						%
+																		%
+%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% INFORMACIÓN DEL TFG
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\def\titulo{Estudio de la relación campo directo/reverberado; útil/perjudicial}
+\def\autor{Jose Manuel Requena Plens}
+
+% Archivo .TEX que incluye todas las configuraciones del documento y los paquetes. Añade todo aquello que necesites utilizar en el documento en este archivo.
+\input{include/poster_configuracioninicial}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ESTILOS Y COLORES
+% Los colores de la cabecera y pie de página no son modificables
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%
+% Estilos de bloques
+% Definidos en estilos_poster.tex y en el propio paquete tikzposter
+%%%%%%%%%
+% Hay disponibles: 'TFGTFM', 'Default', 'Basic', 'Minimal',
+% 'Envelope', 'Corner', 'Slide', 'TornOut','Barra'
+\estilobloque{Minimal}
+
+% Estilos de los bloques internos.
+% Hay disponibles: 'TFGTFM', 'Default', 'Table', 'Basic', 'Minimal', 
+% 'Envelope', 'Corner', 'Slide', 'TornOut'
+\useinnerblockstyle{Basic}
+
+%%%%%%%%%
+% Estilos de notas
+% Definidos en estilos_poster.tex
+%%%%%%%%%
+% Hay disponibles: 'Default', 'Corner', 'Gradiente', 'Sticky'
+\usenotestyle{Default}
+
+%%%%%%%%%
+% Estilos de fondo (si se desea una imagen el comando se encuentra
+% después del comando '\begin{document}...'
+% Definidos en estilos_poster.tex
+%%%%%%%%%
+% Hay disponibles: 'TFGTFM', 'Rayos', 'Gradiente', 'GradienteInferior', 'Vacio', 'Quadro'
+\usebackgroundstyle{Quadro}
+
+%%%%%%%%%
+% Colores individuales. (Conjuntos de colores mas abajo)
+% Depende del estilo de bloque algunos colores no se utilizan.
+% Dispones de '\colorgrado' y '\colortexto' para utilizar los colores de tu titulación
+%%%%%%%%%
+\colorlet{backgroundcolor}{\colorgrado!20!white} % Fondo general
+\colorlet{framecolor}{black}						 % Color de marco
+% Colores bloques
+\colorlet{blocktitlebgcolor}{\colorgrado}	% Fondo cabecera
+\colorlet{blocktitlefgcolor}{\colortexto}	% Texto cabecera
+\colorlet{blockbodybgcolor}{white}			% Fondo cuerpo
+\colorlet{blockbodyfgcolor}{black}			% Texto cuerpo
+% Colores de bloques internos
+\colorlet{innerblocktitlebgcolor}{white}				% Borde/Fondo título
+\colorlet{innerblocktitlefgcolor}{black}				% Texto cabecera/Borde
+\colorlet{innerblockbodybgcolor}{orange!30!white}	% Fondo cuerpo
+\colorlet{innerblockbodyfgcolor}{black}				% Texto cuerpo
+% Colores de notas
+\colorlet{notefgcolor}{black}				% Texto
+\colorlet{notebgcolor}{white}		% Fondo
+\colorlet{notefrcolor}{\colorgrado}			% Borde
+% Colores del estilo de fondo 'Quadro'
+\colorlet{quadro1}{red!30}				% Esquina superior izquierda
+\colorlet{quadro2}{blue!30}				% Esquina superior derecha
+\colorlet{quadro3}{orange!30}			% Esquina inferior izquierda
+\colorlet{quadro4}{teal!30}				% Esquina inferior derecha
+
+%%%%%%%%%
+% Conjunto de colores
+% Elimina el comando si vas a utilizar colores individuales
+% Definidos en estilos_poster.tex
+%%%%%%%%%
+% Disponibles:
+% 'TFGTFM','Default','Australia','Britain','Sweden','Spain','Russia',
+% 'Denmark','Germany', 'Utah', 'Data', 'Qacolor','Elena' 
+%\usecolorstyle{TFGTFM} % Comenta esta línea si utilizas colores individuales
+
+
+\makeatletter
+\tikzset{no shadows/.code=\let\tikz@preactions\pgfutil@empty}
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% INICIO DEL DOCUMENTO
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ \begin{document}
+ 	% Imagen de fondo si se desea. El primer parámetro es la opacidad, el segundo la imagen.
+ 	%\imagenfondo{0.6}{archivos/l_qr_success_1.pdf}
+ 		
+ 	%%%%%%%%%%%%%%%%%%
+	% Cabecera. NO MODIFICAR
+	%%%%%%%%%%%%%%%%%%  
+   	\maketitle	% Genera el título   
+\block{}{
+
+\vspace{8cm} % Espacio vertical y el horizontal para corregir la posicion
+\hspace{1.5cm}\begin{tikzpicture}
+\begin{scope}[huge mindmap,
+every node/.style={concept, minimum size=0pt,execute at begin node=\hskip0pt, font=\bfseries,circular drop shadow}, % circular drop shadow
+root concept/.append style={
+    concept color=black, fill=white, line width=1.5ex, text=black, font=\huge\scshape\bfseries,minimum size=12cm},
+level 1 concept/.append style={font=\bfseries},
+every annotation/.style={fill=white, text=black, inner sep=4mm,align=justify,no shadows},
+text=white,
+% Estilos
+% Parametros acusticos
+param1/.style={concept color=blue!80!black},
+param2/.style={concept color=blue!65!white},
+param3/.style={concept color=blue!50!white},
+% Teoria campos acusticos
+teo1/.style={concept color=red!80!black},
+teo2/.style={concept color=red!65!white},
+teo3/.style={concept color=red!50!white},
+% Inteligibilidad
+int1/.style={concept color=orange!80!black},
+int2/.style={concept color=orange!70!white},
+int3/.style={concept color=orange!60!white},
+% Medidas
+med1/.style={concept color=violet!80!black},
+med2/.style={concept color=violet!70!white},
+med3/.style={concept color=violet!60!white},
+% Modelos
+mod1/.style={concept color=teal!80!black},
+mod2/.style={concept color=teal!70!white},
+mod3/.style={concept color=teal!60!white},
+grow cyclic,
+% Uniones. 1 es centro a siguiente
+level 1/.append style={level distance=14cm,text width=6cm},
+level 2/.append style={level distance=10cm,sibling angle=45,text width=6cm},
+level 3/.append style={level distance=9cm,sibling angle=45,text width=5cm}]
+
+% Centro
+\node [root concept] (raiz) {Teoría revisada \\ corregida}[rotate=-55]
+	% TEORIA CAMPOS ACUSTICOS
+    child [teo1,sibling angle=90] { node {Teoría de campos acústicos}
+        child [teo2] { node {Directo\\ Reverberado} 
+        	child [teo3] { node (leftmost) {Hopkins y Stryker (1948)} }
+        }
+        child [teo2] { node { Teoría revisada} 
+        	child [teo3] { node (leftmost) {Barron y Lee (1988)} }
+        }
+        child [teo2] { node (ajuste) { Ajuste de teoría revisada} 
+        	child [teo3] { node (leftmost) {Sato y Bradley (2008)} }
+        }
+    }
+    % MEDIDAS EXPERIMENTALES
+    child [med1,text width=7cm,sibling angle=40,level distance=18cm] { node (medid) {Medidas experimentales}
+        child [med2] { node { dBFA} }
+        child [med2] { node { dBTrig} }
+    }
+    % MODELOS ACUSTICOS
+    child [mod1,sibling angle=10,level distance=18cm] { node (model) {Modelos acústicos}
+        child [mod2] { node { CATT Acoustic} }
+        child [mod3] { node { EASE} }
+    }
+    % INTELIGIBILIDAD
+    child [int1,text width=7cm,sibling angle=-100] { node (inteli) {Inteligibilidad}
+        child [int2] { node { Claridad} 
+        	child [int3] { node { Reichardt y cols. (1974) } }
+        	child [int3] { node { Marshall (1994) } }
+        }
+        child [int2] { node { Definición} 
+        	child [int3] { node { Thiele (1953) } }
+        }
+        child [int2] { node { Sonoridad} 
+        	child [int3] { node { Lehmann (1976) } }
+        }
+    }
+    % PARAMETROS DE ACUSTICA DE RECINTOS
+    child [param1,sibling angle=52] { node (parame) {Parámetros de acústica de recintos}[rotate=-15]
+    	child [param2] { node { Modos propios} 
+        	child [param3] { node { Morse y Ingard\\ (1968) } }
+        	child [param3] { node { Mankovsky\\ (1971) } }
+        }
+        child [param2,text width=7cm] { node { Tiempo de reverberación} 
+        	child [param3] { node { Sabine\\ (1922) } }
+        	child [param3] { node { Eyring\\ (1930) } }
+        }
+        child [param2] { node { Mean Free Path} 
+        	child [param3] { node { Jäger\\ (1911) } }
+        	child [param3] { node { Knudsen\\ (1932) } }
+        }
+        child [param2] { node {Absorción} 
+        	child [param3] { node { Cox y D'Antonio \\ (2016) } }
+        }
+    };
+    % Matlab
+    \node [below,text width=4cm] at ($(model.west)+(-3.6cm,5cm)$) (matl) {\small Matlab};
+    % Coeficiente de ajuste
+    \node [above,text width=7cm, text=white] at ($(raiz.east)+(7cm,-9cm)$) (coefi) {Coeficientes de ajuste};
+    % Anotaciones
+    \node [annotation,left, text width=7cm,drop shadow] at ($(parame.west)+(-1cm,0cm)$) (notaparam)
+  		{\small Son los parámetros más importantes que han sido tratados en el desarrollo del trabajo.};
+    \node [annotation,below, text width=7cm,drop shadow] at ($(ajuste.south)+(0cm,-2cm)$) (notaajuste)
+  		{\small Este ajuste es el que ha inspirado la corrección aplicada en la teoría revisada corregida.};
+  	\node [annotation,left, text width=6.5cm,drop shadow] at ($(inteli.south east)+(7.5cm,-3cm)$) (notainteli)
+  		{\small Éstos han sido los parámetros que se han definido para poder calcular a partir de la teoría revisada corregida.};
+    \node [annotation,right, text width=6cm,drop shadow] at ($(matl.south)+(-1.1cm,-6.7cm)$) (notamatl)
+  		{\small Utilizado en el tratamiento de datos y la regresión multivariable para obtener los coeficientes.};
+    \node [annotation,right, text width=13cm,drop shadow] at ($(coefi.east)+(-0.5cm,-6.5cm)$) (notacoefi)
+  		{\small A través de los resultados de los modelos acústicos y las medidas experimentales se obtiene mediante regresión los coeficientes de ajuste de la teoría revisada corregida para después analizar la relación de éstos con los parámetros del recinto.};
+    % Conexiones
+    \draw [concept connection]  (model) edge (matl)	
+    							(matl) edge (raiz)
+    							(medid) edge (matl);
+    
+    \draw [-latex]  (matl) -- (notamatl);
+    \draw [-latex, black, line width=10pt]  (raiz) -- (coefi);
+    \draw [-latex]  (coefi) -- (notacoefi);
+    \draw [-latex]  (ajuste) -- (notaajuste);
+    \draw [concept connection]  (raiz) edge (notaajuste);
+    \draw [-latex]  (parame) -- (notaparam);
+    \draw [-latex]  (inteli) -- (notainteli);
+    
+
+  \end{scope}
+\end{tikzpicture}
+}
+\note[targetoffsetx=-8cm,targetoffsety=34cm,width=0.95\textwidth]{
+La división entre campo directo y campo reverberante aunque correcta no es útil en la práctica. Gracias a Helmut Hass se sabe que el oído humano integra los sonidos durante 50 milisegundos entendiéndolo como uno solo, y con este concepto en mente los campos acústicos se redefinen como campo útil (campo directo y temprano) y campo perjudicial (campo reverberante). El cálculo teórico del concepto campo directo y campo reverberante es sencillo (determinado por Hopkins y Stryker en 1948) pero se vuelve complejo cuando se intenta tener en consideración la integración temporal de 50 milisegundos, para ello existen algunas propuestas como la teoría revisada de Barron y Lee en 1988 pero no tiene un nivel de confianza alto por lo que se propone un nuevo cálculo obtenido a través de medidas experimentales y modelos acústicos.
+}  
+\note[targetoffsetx=-8cm,targetoffsety=-45cm,width=0.95\textwidth]{
+El nuevo cálculo propuesto incorpora coeficientes de ajuste en las ecuaciones propuestas por Barron y Lee en 1988, revisado por Barron en solitario en 2015 y tiene en cuenta el comportamiento del campo temprano analizado en medidas experimentales donde se ha observado su dependencia con la distancia reduciendo su nivel con la inversa de ésta. Los coeficientes se obtienen mediante regresión multivariable ajustando las ecuaciones a los valores obtenidos experimentalmente o mediante modelos acústicos y se busca la relación de éstos con las características del recinto para encontrar finalmente una ecuación más sólida con un nivel de confianza alto.}  
+    %%%%%%%%%%%%%%%%%%
+	% Pie de página. NO MODIFICAR
+	%%%%%%%%%%%%%%%%%%  
+   	\footer	% Genera el pie de página
+   	
+ \end{document}
+ 

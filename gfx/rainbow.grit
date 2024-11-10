@@ -1,0 +1,14 @@
+# Symbol name
+-s rainbow
+
+# Warning/log level
+-W3
+
+# Transparency (disabled)
+-gT!
+
+# Bitmap image
+-gb
+
+# Bit depth
+-gB8
