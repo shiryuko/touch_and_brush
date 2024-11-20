@@ -16,10 +16,10 @@ In this project, not only I learned about the difficulties and details of making
 ## Improvements
 In future releases, the following features will be added/improved:
 
-- [] Add music and sound effects
-- [] Improve visual feedback (win/loose, enemies attack)
-- [] Add more levels
-- [] Add bosses and allies
+- [ ] Add music and sound effects
+- [ ] Improve visual feedback (win/loose, enemies attack)
+- [ ] Add more levels
+- [ ] Add bosses and allies
 
 ## Credits
 * Game logic and art made by me
